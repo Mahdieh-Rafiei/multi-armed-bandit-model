@@ -1,3 +1,3 @@
-# multi-armed-bandit-model - Reinforcement Learning
+# multi-armed-bandit - Reinforcement Learning
 Reinforcement Learning |
-Code to produce the plot in multi-armed-bandit-model problem
+Code to produce the plot in multi-armed-bandit problem
